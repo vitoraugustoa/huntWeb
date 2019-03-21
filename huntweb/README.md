@@ -6,7 +6,7 @@ Logo em seguida criar o aplicativo ReactJS
 `ngx create-react-app 'nome-app'`
 
 
-###Dependencias
+##Dependencias
 
 Para acessar API utilizei o *axios* 
 Utilizando Yarn para instalar na pasta do projeto
