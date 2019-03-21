@@ -1,23 +1,23 @@
-#Instalações
+## Instalações
 
 Ter instalado na maquina NodeJS , Npm e Yarn.
 Logo em seguida criar o aplicativo ReactJS
 
-## ngx create-react-app 'nome-app'
+### ngx create-react-app 'nome-app'
 
 
-#Dependencias
+###Dependencias
 
 Para acessar API utilizei o *axios* 
 Utilizando Yarn para instalar na pasta do projeto
 
-## yarn add axios
+### yarn add axios
 
 Para fazer navegação dentro do meu projeto precisamos instalar uma biblioteca
 que se chama *react-router-dom*.
 Vamos utilizar Yarn para instalar.
 
-## yarn add react-router-dom
+### yarn add react-router-dom
 
 
 
