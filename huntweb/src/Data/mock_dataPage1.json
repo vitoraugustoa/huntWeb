@@ -1,0 +1,18 @@
+{
+    "docs": [{
+            "id":1,"name":"Yellow mongoose","color":"Purple","country":"Kosovo"},
+            {"id":2,"name":"Insect, stick","color":"Goldenrod","country":"Philippines"},
+            {"id":3,"name":"Eurasian beaver","color":"Aquamarine","country":"Indonesia"},
+            {"id":4,"name":"Andean goose","color":"Red","country":"Indonesia"},
+            {"id":5,"name":"Vicuna","color":"Fuscia","country":"China"},
+            {"id":6,"name":"Roadrunner, greater","color":"Maroon","country":"Ukraine"},
+            {"id":7,"name":"Indian red admiral","color":"Orange","country":"Brazil"},
+            {"id":8,"name":"Macaw, scarlet","color":"Puce","country":"Serbia"},
+            {"id":9,"name":"African lion","color":"Purple","country":"Sweden"},
+            {"id":10,"name":"Asian false vampire bat","color":"Blue","country":"Thailand"}
+    ],
+    "total": 13,
+    "limit": 10,
+    "page": 1,
+    "pages": 2 
+}

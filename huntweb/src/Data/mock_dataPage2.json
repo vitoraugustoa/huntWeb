@@ -1,0 +1,18 @@
+{
+    "docs": [{
+        "id":11,"name":"Seal, southern elephant","color":"Teal","country":"Poland"},
+        {"id":12,"name":"Mongoose, javan gold-spotted","color":"Khaki","country":"Brazil"},
+        {"id":13,"name":"Waterbuck, defassa","color":"Pink","country":"United Arab Emirates"},
+        {"id":14,"name":"Toucan, white-throated","color":"Indigo","country":"China"},
+        {"id":15,"name":"Viper, egyptian","color":"Orange","country":"Portugal"},
+        {"id":16,"name":"Penguin, magellanic","color":"Puce","country":"Finland"},
+        {"id":17,"name":"Arctic ground squirrel","color":"Mauv","country":"China"},
+        {"id":18,"name":"Lemur, lesser mouse","color":"Aquamarine","country":"Indonesia"},
+        {"id":19,"name":"Racer, blue","color":"Red","country":"Colombia"},
+        {"id":20,"name":"Asian foreset tortoise","color":"Puce","country":"Russia"}
+    ],
+    "total": 13,
+    "limit": 10,
+    "page": 2,
+    "pages": 2 
+}
